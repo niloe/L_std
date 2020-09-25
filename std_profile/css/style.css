@@ -1,0 +1,18 @@
+@font-face {
+    font-family: jooza;
+    src: url(../font/flat-jooza-regular_eyjpqz.ttf);
+}
+
+
+body{
+    font-family: 'jooza', sans-serif;
+
+}
+
+
+.profile_img
+{
+    width: 250px;
+    height: 150px;
+    border-radius: 50%;
+}
